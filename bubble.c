@@ -49,7 +49,7 @@ void bubbleSort() {
       }
 
       // if no number was swapped that means 
-      //   array is sorted now, break the loop. 
+      //   array is sorted now, break the loop
       if(!swapped) {
          break;
       }
